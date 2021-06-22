@@ -1,3 +1,3 @@
 # Front-End for BlockMagnet-Hub Dapp.
 
-![benz](https://i.ebayimg.com/images/g/fAUAAOSwK2Je297~/s-l300.jpg)
+![benz](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ADR33_UN1203.svg/1200px-ADR33_UN1203.svg.png)
