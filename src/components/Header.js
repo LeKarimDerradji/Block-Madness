@@ -12,13 +12,16 @@ const Header = () => {
             justifyContent='center'
             alignItems='center'
             sx={
-            {backgroundImage: "url('https://www.moma.org/media/W1siZiIsIjQ3NjkyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=8156854cac9fe22f')",
+            // credit : supremat.platz
+            {backgroundImage: "url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/cb204582849369.5d2a2f5c3c903.jpg')",
             backgroundSize: 'cover',
-            backgroundPosition: 'center'}}>
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat'
+            }}>
 
             <Heading 
             as='h1' 
-            color='red.500'
+            color='red'
             fontWeight='light'
             fontSize='9xl'>BLOCK.MADNESS
             </Heading>
